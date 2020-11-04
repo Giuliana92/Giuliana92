@@ -1,4 +1,4 @@
-## :wave: Hello World 
+## :wave: Hello, World 
 
 ### I'm Giuliana :blush:
 
