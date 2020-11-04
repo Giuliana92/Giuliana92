@@ -8,7 +8,7 @@
 ## About me
 #### :heart: Travel :green_heart: Music :blue_heart: Programming 
 - :earth_americas:  I'm from São Paulo, SP
-- :cat: :dog: I love pets and I have 4 cats and 1 puppy
+- :heartpulse: I love pets and I have 4 cats and 1 puppy
 - :star: I love to customize everything 
 
 ## Social media :mailbox_with_no_mail:
