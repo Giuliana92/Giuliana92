@@ -7,7 +7,7 @@
 
 ## About me
 #### :heart: Travel :green_heart: Music :blue_heart: Programming 
-- :earth_americas: I'm from São Paulo, SP
+- :earth_americas:  I'm from São Paulo, SP
 - :spaghetti: I love to go out and eat good food
 - :star: I love to customize everything 
 
