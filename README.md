@@ -1,4 +1,4 @@
-### Hi there 👋 I am Giuliana :blush:
+### Hello World 👋 I am Giuliana :blush:
 
 <!--
 **Giuliana92/Giuliana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
