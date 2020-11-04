@@ -1,4 +1,4 @@
-### Hi there 👋. I am Giuliana :sunflower:
+### Hi there 👋 I am Giuliana :sunflower:
 
 <!--
 **Giuliana92/Giuliana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
