@@ -2,6 +2,9 @@
 
 ### I am Giuliana :blush:
 
+#### Studing Data Analysis :robot:. (In progress)
+#### IronHack São Paulo :books:
+
 <!--
 **Giuliana92/Giuliana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
