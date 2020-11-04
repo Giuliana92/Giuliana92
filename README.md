@@ -1,6 +1,6 @@
 ## :wave: Hello World 
 
-### I am Giuliana :blush:
+### I'm Giuliana :blush:
 
 #### Studing Data Analysis :robot: (In progress)
 #### IronHack São Paulo :books:
