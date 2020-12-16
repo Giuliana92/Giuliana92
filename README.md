@@ -3,7 +3,7 @@
 ### I'm Giuliana :blush:
 
 #### Studing Data Analysis :robot: (In progress)
-#### IronHack São Paulo :books:
+#### Ironhack São Paulo :books:
 
 ## About me
 #### :airplane: Travel :headphones: Music :computer: Programming 
