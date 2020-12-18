@@ -2,7 +2,7 @@
 
 ### I'm Giuliana :blush:
 
-#### Studing Data Analysis :robot:
+#### Studing Data Analytics :robot:
 #### Ironhack São Paulo :books:
 
 ## About me
