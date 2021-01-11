@@ -5,7 +5,7 @@
 #### Data Analytics :robot:
 
 ## About me
-#### :airplane: Travel :headphones: Music :computer: Programming 
+#### :airplane: Travel :headphones: Music :computer: Data Science 
 - :earth_americas:  I'm from São Paulo, SP
 - :star: I love to customize everything 
 
