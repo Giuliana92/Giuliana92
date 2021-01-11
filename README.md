@@ -10,7 +10,7 @@
 - :star: I love to customize everything 
 
 ## Social media :mailbox_with_no_mail:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/giulianavcnt/)](https://https://www.linkedin.com/in/giulianavcnt/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/giulianavcnt/)](https://www.linkedin.com/in/giulianavcnt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giulianaavicente@gmail.com)](mailto:giulianaavicente@gmail.com)
 
 <!--
