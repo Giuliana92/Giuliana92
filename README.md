@@ -6,7 +6,7 @@
 
 ## About me
 #### :airplane: Travel :headphones: Music :computer: Data Science 
-- :earth_americas:  I'm from São Paulo, SP
+- :earth_americas:  I'm from Campinas, SP
 - :star: I love to customize everything 
 
 ## Social media :mailbox_with_no_mail:
